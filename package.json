@@ -5,7 +5,8 @@
   "main": "BusBookingServer.js",
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "^3.3.0-beta2"
+    "mongodb": "^3.3.0-beta2",
+    "nodemon": "^1.19.1"
   },
   "devDependencies": {},
   "scripts": {
