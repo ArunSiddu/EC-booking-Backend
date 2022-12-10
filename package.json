@@ -4,7 +4,7 @@
   "description": "Easy way to book? use EC-Booking...",
   "main": "BusBookingServer.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.3.0-beta2",
     "nodemon": "^1.19.1"
   },
